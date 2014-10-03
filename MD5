@@ -1,0 +1,11 @@
+f5406f0902e4ec0dc4f76b7adacec264 *DESCRIPTION
+df390c53434517b304ac5db487184641 *NAMESPACE
+50aca2550607861c6741a0d97e2e1115 *R/NB.estimator.R
+61105fa95bb6ffd9c984faf40475d8f0 *R/NB.example.dataset.R
+1589e98d50f974b6d7441363e4360b53 *R/NB.likelihood.R
+302b2229f3a664bf963c6e9954c44b99 *R/NB.plot.likelihood.R
+d838b20bb38703739adc2a2b8a23e701 *man/NB-package.Rd
+981fd97664f8932083f4dcd5de442b67 *man/NB.estimator.Rd
+c00b8bde0f5c5a68e30356b9f56934d5 *man/NB.example.dataset.Rd
+82bf48fbacabf5acfa70df0cb05bc480 *man/NB.likelihood.Rd
+ce08c1e5e6920c5e3f6458193d20fc43 *man/NB.plot.likelihood.Rd
